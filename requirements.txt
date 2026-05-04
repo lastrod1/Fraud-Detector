@@ -1,0 +1,8 @@
+# just in case yall dont have these, just go ahead pip install -r reqs.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+kagglehub
